@@ -27,6 +27,13 @@
 
 ##
 
+ <div>
+  <h3>Portfólio</h3>
+  <a href="https://gferreira1902.github.io/Portfolio/">Acessar Link</a>
+</div>
+
+##
+
 <div>
   <h3>Contato</h3>
   <a href="mailto:contato@devguirrer@gmail.com" target="blank" ><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
