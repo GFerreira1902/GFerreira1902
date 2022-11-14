@@ -35,6 +35,6 @@
   <a href="https://www.instagram.com/gferreira_dfs/" target="blank"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/devfullstack-guilherme-ferreira-/" target="blank"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/GFerreira1902/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GFerreira1902/GFerreira1902/blob/output/github-contribution-grid-snake.svg)
 </div>
 
