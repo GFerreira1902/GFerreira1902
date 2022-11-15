@@ -29,7 +29,7 @@
 
  <div>
   <h3>Portfólio</h3>
-  <a href="https://gferreira1902.github.io/Portfolio/">Acessar Link</a>
+  <a href="https://gferreira1902.github.io/Portfolio/" target="blank" >Acessar Link</a>
 </div>
 
 ##
