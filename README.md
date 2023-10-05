@@ -1,4 +1,4 @@
-## Bem vindo ao meu GitHub!!! Me chamo Guilherme Ferreira 
+## Bem vindo ao meu GitHub!!! 
 
 <div>
   <a href="#">
