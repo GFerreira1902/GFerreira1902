@@ -9,7 +9,7 @@
 <div>
   <h3>Linguagens e Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,sass,php,symfony,python,nodejs,react,redux,angular,ionic,flutter,java" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,sass,php,symfony,python,nodejs,react,redux,flutter,java" />
   </p>
 </div>
 
